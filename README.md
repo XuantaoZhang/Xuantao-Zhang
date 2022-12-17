@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zhang Xuantao
-- 👀 I’m interested in Robotics, Artificial Intelligence, Machine Learning, Computer Science, Mathematics
+- 👀 I’m interested in Robotics, bioinformatics, Artificial Intelligence, Machine Learning, Computer Science, Mathematics
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on Top 30 University in the United States
+- 💞️ I’m looking to cooperate with outstanding researchers in bioinformatics
 - 📫 How to reach me i do not want to tell you haha, but you can send me message here, then I can add your Facebook
 
 <!---
